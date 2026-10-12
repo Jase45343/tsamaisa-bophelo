@@ -1,0 +1,4 @@
+<resources>
+    <!-- Window theme only; all real styling is done in Compose (ui/theme). -->
+    <style name="Theme.TsamaisaBophelo" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

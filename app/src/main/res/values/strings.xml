@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tsamaisa Bophelo</string>
+    <string name="today_title">Today</string>
+    <string name="today_placeholder">Your plan for the day will appear here.</string>
+</resources>
